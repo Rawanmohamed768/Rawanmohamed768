@@ -18,7 +18,7 @@
 
 ###
 
-<p data-importer="text" align="left">Hi, I'm Rawan Mohamed from Egypt<br><br>- 🔭 I'm a 3rd-year Software Engineering student at the Faculty of Informatics and computer science<br>- 📚 I'm currently learning data analytics and clean software engineering practices<br>- ⚡ In my free time I build small projects in data analytics and software engineering, and solve problems on Codeforces</p>
+<p data-importer="text" align="left">Hi, I'm Rawan Mohamed from Egypt<br><br>- 🔭 I'm a 3rd-year Software Engineering student at the Faculty of Informatics and computer science in the British University in Egypt<br>- 📚 I'm currently learning data analytics and clean software engineering practices<br>- ⚡ In my free time I build small projects in data analytics and software engineering, and solve problems on Codeforces</p>
 
 ###
 
