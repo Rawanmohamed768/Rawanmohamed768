@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/rawan-mohamed-a6690737a?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="rawanmoh842@gmail.com" target="_blank">
+  <a href="mailto:rawanmoh842@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://www.instagram.com/rawan8043?stkn=NTIyeTlscm5rM2Zu" target="_blank">
